@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # GitHub API Project
 
 A FastAPI-based REST API that retrieves public GitHub user information using the GitHub REST API and returns clean, structured JSON responses.
@@ -106,4 +106,4 @@ Satya Anandh
 =======
 # github-api-project
 FastAPI REST API that fetches and returns GitHub user information using the GitHub REST API.
->>>>>>> 4cf012f0cbd4897067ba3de016e0b846249f4429
+
