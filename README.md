@@ -81,12 +81,12 @@ GET /github/octocat
 
 ```json
 {
-  "username": "octocat",
-  "name": "The Octocat",
+  "username": "satya",
+  "name": "satya-ai",
   "followers": 18000,
   "following": 9,
   "public_repos": 8,
-  "profile_url": "https://github.com/octocat"
+  "profile_url": "https://github.com/satya-ai"
 }
 ```
 
